@@ -1,2 +1,2 @@
 # encrypto
-## This is a encryption project
+## This is an encryption project used to ecrypt password
